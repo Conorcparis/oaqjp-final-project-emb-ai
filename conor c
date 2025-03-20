@@ -1,0 +1,3 @@
+git add .
+git config --global user.email "conorc33@gmail.com"
+git commit -m "Initial Commit"
